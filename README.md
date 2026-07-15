@@ -1,14 +1,23 @@
 <div align="center">
 
-# Hi 👋, I'm Sari Larasati
+# 👋 Hi, I'm Sari Larasati
 
-### Senior Web Programmer · Freelance PHP Developer
+## Senior Web Programmer & Freelance PHP Developer
 
-**15+ years of experience building enterprise and business applications**
+### Building reliable business applications backed by 15+ years of professional experience
 
-PHP · ASP.NET · C# · SQL Server · Oracle · MySQL · Reporting Systems
+<p>
+  <img src="https://img.shields.io/badge/Current%20Role-Freelance%20PHP%20Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Current Role">
+  <img src="https://img.shields.io/badge/Experience-15%2B%20Years-0A66C2?style=for-the-badge" alt="15+ Years Experience">
+  <img src="https://img.shields.io/badge/Available%20For-Remote%20%26%20Freelance-238636?style=for-the-badge" alt="Available for Remote and Freelance">
+</p>
 
-📍 Mataram, West Nusa Tenggara, Indonesia
+<p>
+  <img src="https://komarev.com/ghpvc/?username=RASRASS18&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+</p>
+
+📍 Mataram, West Nusa Tenggara, Indonesia  
+📧 laraskhalid@gmail.com
 
 </div>
 
@@ -16,41 +25,64 @@ PHP · ASP.NET · C# · SQL Server · Oracle · MySQL · Reporting Systems
 
 ## 👩‍💻 Professional Profile
 
-I am a **Senior Web Programmer from Indonesia** with more than **15 years of professional experience** in software development.
+I am **Sari Larasati**, a Senior Web Programmer from Indonesia with more than **15 years of professional experience** in software development.
 
-My experience covers the complete Software Development Life Cycle, including requirement analysis, database design, application development, testing, debugging, documentation, maintenance, deployment support, and user assistance.
+My professional background includes enterprise and business applications for the automotive, finance, insurance, manufacturing, government, human resources, marketing, recruitment, treasury, attendance, reporting, and operational-management sectors.
 
-Throughout my career, I have contributed to enterprise applications for the automotive, finance, insurance, manufacturing, government, human resources, and business operations sectors.
+I currently work as a **Freelance PHP Web Programmer**, developing practical, database-driven web applications tailored to real business requirements.
 
-I currently work as a **Freelance PHP Web Programmer**, developing practical web applications for business operations, booking workflows, attendance management, community information, company profiles, and custom client requirements.
+My work covers the complete application-development lifecycle:
+
+- Requirement discussion and business-process analysis
+- Database and application-structure design
+- User-interface and backend development
+- Testing, debugging, and troubleshooting
+- Deployment and implementation support
+- User guidance and documentation
+- Application maintenance and feature enhancement
+
+> I build applications to make business operations clearer, faster, more reliable, and easier to manage.
 
 ---
 
-## 💼 Current Professional Focus
+## 💼 Current Focus
 
-- Freelance PHP web application development
-- Custom business and operational systems
-- Database-driven web applications
-- Admin dashboards and reporting
-- Booking and scheduling applications
-- Attendance management systems
+<p>
+  <img src="https://img.shields.io/badge/Freelance-PHP%20Development-777BB4?style=flat-square&logo=php&logoColor=white" alt="Freelance PHP Development">
+  <img src="https://img.shields.io/badge/Custom-Business%20Applications-00599C?style=flat-square" alt="Custom Business Applications">
+  <img src="https://img.shields.io/badge/Admin-Dashboards-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Admin Dashboards">
+  <img src="https://img.shields.io/badge/Database-Driven%20Systems-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="Database Driven Systems">
+  <img src="https://img.shields.io/badge/Reporting-Business%20Reports-CC2927?style=flat-square" alt="Reporting Systems">
+  <img src="https://img.shields.io/badge/Availability-Remote%20Worldwide-238636?style=flat-square" alt="Remote Worldwide">
+</p>
+
+- Custom PHP web applications
+- Business process automation
+- Operational management systems
+- Admin dashboards
+- Booking and scheduling systems
+- Attendance applications
 - Company profile and community websites
-- Application maintenance and enhancement
-- Client requirement analysis
-- Deployment and user support
+- Reporting and data-management solutions
+- Application maintenance and modernization
+- Client deployment and user support
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Core Technology Stack
 
-### Programming & Backend
+### Backend & Programming
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp">
   <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="VB.NET">
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ">
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL SQL">
 </p>
+
+**Professional experience with:**
 
 - PHP across multiple versions
 - ASP.NET Web Forms
@@ -60,7 +92,7 @@ I currently work as a **Freelance PHP Web Programmer**, developing practical web
 - LINQ
 - PL/SQL
 
-### Frontend Development
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -70,155 +102,116 @@ I currently work as a **Freelance PHP Web Programmer**, developing practical web
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-- JavaScript
-- jQuery
+**Additional frontend experience:**
+
 - Ext.js
 - Knockout.js
 - Backbone.js
-- HTML5
-- Bootstrap
 - AdminLTE
 
 ### Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Oracle%2010g%20%2F%2011g-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/SQL%20Server%202008%20R2%20%2F%202012-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/TOAD-3C873A?style=for-the-badge" alt="TOAD">
 </p>
-
-- Oracle 10g and 11g
-- Microsoft SQL Server 2008 R2 and 2012
-- MySQL
-- PL/SQL
-- TOAD
 
 ### Reporting & Enterprise Tools
 
-- Crystal Reports
-- Telerik Reports
-- RDLC and RDL Reports
-- HTML Reports
-- SharePoint
-- Microsoft Visual Studio
-- Visual Studio Code
-- Git and GitHub
-- Microsoft Office and Visio
+<p>
+  <img src="https://img.shields.io/badge/Crystal%20Reports-0099D8?style=flat-square" alt="Crystal Reports">
+  <img src="https://img.shields.io/badge/Telerik%20Reports-5CE500?style=flat-square" alt="Telerik Reports">
+  <img src="https://img.shields.io/badge/RDLC%20%2F%20RDL-512BD4?style=flat-square" alt="RDLC RDL">
+  <img src="https://img.shields.io/badge/HTML%20Reports-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Reports">
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 ---
 
-## 🏢 Enterprise Experience
+## 🏢 Enterprise Clients & Organizations
 
-### Freelance Web & Mobile Application Developer  
-**Independent Developer · May 2018 – Present**
+During my professional career, I contributed to applications and systems involving:
 
-Currently working as a freelance developer focused primarily on **PHP-based web applications**.
+<p>
+  <img src="https://img.shields.io/badge/Honda-Dealer%20Systems-E40521?style=for-the-badge" alt="Honda">
+  <img src="https://img.shields.io/badge/Coca--Cola%20Amatil-Budgeting%20%26%20Recruitment-F40009?style=for-the-badge" alt="Coca-Cola Amatil">
+  <img src="https://img.shields.io/badge/Danareksa-Treasury%20System-004B8D?style=for-the-badge" alt="Danareksa">
+</p>
 
-My responsibilities include:
+<p>
+  <img src="https://img.shields.io/badge/Asuransi%20Astra-Claim%20Process%20Assurance-0066B3?style=for-the-badge" alt="Asuransi Astra">
+  <img src="https://img.shields.io/badge/Kapal%20Api-Marketing%20%26%20HR%20Systems-8B1E1E?style=for-the-badge" alt="Kapal Api">
+  <img src="https://img.shields.io/badge/PLN-Transformer%20Data%20Application-FFD100?style=for-the-badge" alt="PLN">
+</p>
 
-- Discussing and analyzing client requirements
-- Designing database structures
-- Developing user interfaces and backend logic
-- Building operational and business workflows
-- Testing and troubleshooting applications
-- Supporting deployment and implementation
-- Preparing user guidance
-- Maintaining and enhancing existing systems
+Other professional organizations and assignments include:
 
----
-
-### ASP.NET Programmer  
-**Mitrajaya Motor Official Honda · September 2016 – May 2018**
-
-- Developed dealer systems for Honda motorcycle operations.
-- Worked on marketing (H1), service (H2), and spare-parts sales (H3) workflows.
-- Built and maintained applications using ASP.NET Web Forms and Oracle.
-- Created HTML, Crystal, and Telerik reporting solutions.
-- Developed a mobile customer-registration support application.
-- Enhanced existing systems to improve operational efficiency.
-
----
-
-### Project Web Programmer  
-**PT Kamoro Maxima Integra · August 2014 – September 2016**
-
-Client assignment:
-
-- **PT Kapal Api Global**
-
-Main contributions:
-
-- Developed Marketing Information Systems.
-- Developed Human Resource applications.
-- Used .NET MVC, Ext.js, Knockout.js, SQL Server, and RDL reporting.
-- Maintained and enhanced existing applications.
-- Prepared user manuals and system documentation.
-- Produced functional requirements, design specifications, and business requirements.
-
----
-
-### Project Web Programmer  
-**PT Indocyber Global Technology · January 2011 – July 2014**
-
-Enterprise client assignments:
-
-- PT Asuransi Astra Buana
-- Bintang Motor Official Honda
+- PT Indocyber Global Technology
+- PT Kamoro Maxima Integra
 - Mitrajaya Motor Official Honda
-- PT Danareksa
-- PT Coca-Cola Amatil Indonesia
-
-Main contributions:
-
-- Delivered insurance, automotive, treasury, budgeting, recruitment, and reporting applications.
-- Developed Claim Process Assurance for PT Asuransi Astra Buana.
-- Developed Honda dealer systems for H1, H2, and H3 operations.
-- Built the Danareksa Treasury System.
-- Developed budgeting and employee-recruitment systems for PT Coca-Cola Amatil Indonesia.
-- Worked with Web Forms, .NET MVC, SharePoint, SQL Server, Oracle, Backbone.js, and enterprise reporting tools.
-
----
-
-### Freelance Web Programmer  
-**PT PLN (Persero), Kramat Jati Branch · July 2008 – September 2008**
-
-- Developed a PHP-based application for managing electrical distribution-transformer data.
-- Supported data entry for distribution transformers and substation transformers.
-- Used PHP and an AppServ database environment.
-
----
-
-## 🌐 Enterprise Clients & Organizations
-
-During my professional career, I have contributed to projects involving:
-
-- **Honda**
-- **PT Coca-Cola Amatil Indonesia**
-- **PT Danareksa**
-- **PT Asuransi Astra Buana**
-- **PT Kapal Api Global**
-- **PT PLN (Persero)**
-- **Mitrajaya Motor Official Honda**
-- **Bintang Motor Official Honda**
-- **PT Indocyber Global Technology**
-- **PT Kamoro Maxima Integra**
+- Bintang Motor Official Honda
 
 ---
 
 ## 🚀 Selected Enterprise Solutions
 
-| Solution | Business Area |
-|---|---|
-| Honda Dealer Management System | Marketing, service, and spare-parts operations |
-| Danareksa Treasury System | Treasury and financial-risk processes |
-| Claim Process Assurance | Insurance claim processing |
-| Marketing Information System | Marketing operations and reporting |
-| Human Resource Information System | Employee and HR management |
-| Budgeting System | Corporate budgeting workflows |
-| Recruitment System | Employee recruitment processes |
-| Mobile Customer Registration | New-customer registration support |
-| Transformer Data Management | Electrical distribution data |
-| Enterprise Reporting Solutions | Operational and management reporting |
+| Enterprise solution | Client or business area | Main technology |
+|---|---|---|
+| Honda Dealer Management System | Marketing H1, service H2, spare parts H3 | ASP.NET Web Forms, Oracle, Crystal Report, Telerik |
+| Danareksa Treasury System | Treasury and financial-risk processes | .NET MVC, SQL Server, RDL |
+| Claim Process Assurance | PT Asuransi Astra Buana | Web Forms, SQL Server, HTML Report |
+| Marketing Information System | PT Kapal Api Global | .NET MVC, Ext.js, SQL Server |
+| Human Resource Applications | PT Kapal Api Global | .NET MVC, Knockout.js, SQL Server |
+| Budgeting and Recruitment Systems | PT Coca-Cola Amatil Indonesia | SharePoint, .NET MVC, Backbone.js |
+| Mobile Customer Registration | Honda motorcycle operations | Web Forms, AdminLTE, Oracle |
+| Transformer Data Management | PT PLN (Persero) | PHP, AppServ |
+| Enterprise Reporting Systems | Multiple operational environments | Crystal, Telerik, RDLC/RDL, HTML |
+
+---
+
+## 💼 Professional Journey
+
+```text
+2008
+│
+├── Freelance Web Programmer
+│   PT PLN (Persero), Kramat Jati Branch
+│
+2011
+│
+├── Project Web Programmer
+│   PT Indocyber Global Technology
+│
+│   Client assignments:
+│   • PT Asuransi Astra Buana
+│   • Bintang Motor Official Honda
+│   • Mitrajaya Motor Official Honda
+│   • PT Danareksa
+│   • PT Coca-Cola Amatil Indonesia
+│
+2014
+│
+├── Project Web Programmer
+│   PT Kamoro Maxima Integra
+│
+│   Client assignment:
+│   • PT Kapal Api Global
+│
+2016
+│
+├── ASP.NET Programmer
+│   Mitrajaya Motor Official Honda
+│
+2018 — Present
+│
+└── Freelance PHP Web Programmer
+    Independent Web & Mobile Application Developer
+```
 
 ---
 
@@ -228,110 +221,155 @@ During my professional career, I have contributed to projects involving:
 
 Business and operational web application portal.
 
-`https://apps.digikreatifstudio.com/login.php`
+**Project:** `apps.digikreatifstudio.com/login.php`
+
+---
 
 ### Digi Kreatif Booking
 
-Online booking and customer scheduling workflow.
+Online booking, scheduling, and customer-facing workflow.
 
-`https://apps.digikreatifstudio.com/booking/`
+**Project:** `apps.digikreatifstudio.com/booking/`
+
+---
 
 ### The Cattleya Ungaran
 
-Professional hospitality and venue-presentation website.
+Professional website for hospitality and venue presentation.
 
-`https://thecattleyaungaran.com`
+**Project:** `thecattleyaungaran.com`
+
+---
 
 ### Perum GMS RT 02
 
 Community and residential information website.
 
-`https://perumgmsrt02.web.id`
+**Project:** `perumgmsrt02.web.id`
+
+---
 
 ### Mobile Attendance Application
 
-Attendance application for the North Jakarta Social Services Administration.
+Structured attendance application for the North Jakarta Social Services Administration.
 
-`https://absensudinju.id/absensi_app/`
+**Project:** `absensudinju.id/absensi_app/`
 
 ---
 
 ## 🎯 Professional Strengths
 
-- Software Development Life Cycle
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Software Development
+
+- Full Software Development Life Cycle
 - Requirement analysis
 - Database design
-- Application development
+- Backend development
+- Frontend implementation
+- Application integration
 - Functional and system testing
 - User Acceptance Testing support
+
+</td>
+<td width="50%" valign="top">
+
+### Delivery & Support
+
 - Debugging and troubleshooting
 - Application maintenance
-- System documentation
-- User manuals and specifications
-- Business-oriented problem solving
+- Feature enhancement
+- Deployment support
+- User manuals
+- Functional requirements
+- Design specifications
+- Business requirements
 - Client communication
-- Long-term application support
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌱 Currently Developing
+## 🌱 Current Development Direction
 
-I am currently strengthening my expertise in:
+I am currently expanding my experience in:
 
-- Modern PHP application development
+<p>
+  <img src="https://img.shields.io/badge/Modern-PHP%20Development-777BB4?style=flat-square&logo=php&logoColor=white" alt="Modern PHP">
+  <img src="https://img.shields.io/badge/Laravel-Development-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/REST-API-009688?style=flat-square" alt="REST API">
+  <img src="https://img.shields.io/badge/Clean-Architecture-512BD4?style=flat-square" alt="Clean Architecture">
+  <img src="https://img.shields.io/badge/SaaS-Multi--Tenant%20Systems-0A66C2?style=flat-square" alt="SaaS">
+  <img src="https://img.shields.io/badge/Docker-Deployment-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+- Modern PHP application structures
 - Laravel development practices
 - RESTful API architecture
-- Clean and maintainable application structure
-- Secure authentication and authorization
+- Authentication and authorization
+- Secure application development
+- SaaS and multi-tenant architecture
 - Modern admin dashboards
-- SaaS and multi-tenant applications
-- Cloud deployment
-- Docker and modern deployment workflows
+- Cloud and container-based deployment
 
 ---
 
-## 📌 Featured Projects
+## 📌 Public Portfolio Roadmap
 
-My public GitHub portfolio is being prepared to showcase selected demonstration projects based on my professional experience, without exposing confidential client source code.
+My GitHub is being developed to showcase demonstration projects inspired by my professional background without publishing confidential client source code.
 
-Planned repositories include:
-
-- School Management System
-- PHP Booking System
-- Attendance Management System
-- Inventory Management System
-- Company Profile CMS
-- Business Admin Dashboard
-- Reporting and PDF Generator
-- REST API Authentication System
+| Planned repository | Purpose |
+|---|---|
+| `school-management-system` | Modular school administration and SaaS workflows |
+| `php-booking-system` | Customer booking and scheduling |
+| `attendance-management-system` | Attendance and reporting workflows |
+| `inventory-management-system` | Product, stock, and transaction management |
+| `company-profile-cms` | Content-managed company website |
+| `business-admin-dashboard` | Operational business dashboard |
+| `reporting-pdf-generator` | Business reporting and PDF generation |
+| `rest-api-authentication` | Secure API authentication workflow |
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RASRASS18&show_icons=true&hide_border=true&theme=transparent" alt="Sari Larasati GitHub Statistics">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RASRASS18&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Sari Larasati GitHub Activity Graph">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASRASS18&layout=compact&hide_border=true&theme=transparent" alt="Sari Larasati Top Languages">
-</p>
-
-> GitHub statistics represent public repository activity and may not include professional projects stored privately or developed for clients.
+> The activity graph reflects public GitHub activity. Most previous professional and client applications were developed in private environments and are not publicly accessible.
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Availability
 
-- **Email:** laraskhalid@gmail.com
+<p>
+  <a href="mailto:laraskhalid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-laraskhalid%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/RASRASS18">
+    <img src="https://img.shields.io/badge/GitHub-RASRASS18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+- **Current role:** Freelance PHP Web Programmer
 - **Location:** Mataram, West Nusa Tenggara, Indonesia
-- **GitHub:** `https://github.com/RASRASS18`
-- **Availability:** Open to freelance projects and remote opportunities
+- **Availability:** Freelance projects and remote opportunities
+- **Preferred work:** PHP web applications, business systems, operational platforms, dashboards, reporting, and application maintenance
 
 ---
 
 <div align="center">
 
-### Building practical software that helps businesses work better, faster, and more efficiently.
+## Let’s Build Something Useful
+
+### Practical applications. Reliable systems. Real business solutions.
+
+**Open to freelance PHP projects and remote development opportunities.**
 
 </div>
