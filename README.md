@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Sari Larasati
 
-## Senior Web Programmer & Freelance PHP Developer
+## Web Programmer • PHP & .NET Development
 
-### Building reliable business applications backed by 15+ years of professional experience
+### Building practical applications for business and operational needs
 
 <p>
   <img src="https://img.shields.io/badge/Current%20Role-Freelance%20PHP%20Developer-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Current Role">
